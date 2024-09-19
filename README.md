@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ql420/ql420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+I'm Qi(Nancy) Lan!
+
+- Currently: MEng Student at Imperial College London (2025 Graduate)
+
+<h2> My ML Projects 🔭 </h2>
+
+- Stock Price Movement Prediction with LSTM
+
+- Kaggle Competition - Academic Success Prediction
+
+<h2> How to reach me 📫 </h2>
+
+Email: lan.qi0111@gmail.com
