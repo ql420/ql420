@@ -19,6 +19,10 @@ I'm Qi(Nancy) Lan!
 
 - Currently: MEng Student at Imperial College London (2025 Graduate)
 
+<h2> My Projects 🔭 </h2>
+- Object-Oriented C++ PDE Numerical Solver 
+- Rocket Launch Simulation (C++)
+
 <h2> My ML Projects 🔭 </h2>
 
 - Stock Price Movement Prediction with LSTM
